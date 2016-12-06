@@ -1,0 +1,19 @@
+
+RD02 - 12v Robot drive - $183.76
+
+Sparkfun - 3 sensors - $149.85 SEN-09491 
+
+2 XBee's - $45.90 WRL-08665 
+
+XBee Explorer - $24.95 WRL-08687 
+
+Zeus PC9-12 12v 9Ah Sealed Lead Acid Battery - $22.40
+
+Schumacher XC6 SpeedCharge 6 Amp Battery Charger - $29.77
+
+Mega Pro 3.3V - $44.95 DEV-10744 
+
+FTDI Basic Breakout - 3.3V - $14.95 DEV-09873 
+
+
+
